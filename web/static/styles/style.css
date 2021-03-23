@@ -1,0 +1,13 @@
+.closed {
+  text-decoration: line-through;
+}
+.todo-item {
+  display: block;
+  position: relative;
+}
+.todo-update-form {
+  display: none;
+  position: absolute;
+  left: 4px;
+  right: 4px;
+}
